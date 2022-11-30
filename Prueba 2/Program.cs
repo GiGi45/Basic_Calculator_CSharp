@@ -53,6 +53,7 @@
         public static void Main()
         {
             try{
+                Console.WriteLine("Welcome to my First Calculator");
                 double[] arr = new double[20];
                 int count = Menu();
 
